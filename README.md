@@ -17,7 +17,7 @@ phonegap create testapp
 
 Some screenshots showing commands on the linux terminal, screens of the applications and environment variables on linux:
 
-![alt_text(https://github.com/Jorge36/CurrencyCapitalApp/blob/42cc65a336b8a29a0eb91cdfc2b27d34dada6a1b/Testing/cordova%20requirements.png)
+![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/42cc65a336b8a29a0eb91cdfc2b27d34dada6a1b/Testing/cordova%20requirements.png)
 ![alt_text]()
 ![alt_text]()
 ![alt_text]()
