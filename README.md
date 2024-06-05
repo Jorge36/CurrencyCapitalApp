@@ -15,6 +15,8 @@ Then, to create an application we can run the following command:
 
 phonegap create testapp
 
+The root of the app is CurrencyApp.
+
 Some screenshots showing commands on the linux terminal, screens of the applications and environment variables on linux:
 
 * Cordova requirements
@@ -50,7 +52,22 @@ Some screenshots showing commands on the linux terminal, screens of the applicat
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/run%20browser%20ipad.png)
 
 
-Application was built for android and browser. In Testing folder, we can find a txt file which contains a link to a video displaying the app running.
+Application was built for Android and browser. Application has different screens on Android and Browser because some elements were hiding on Android.
+
+```
+    var ua = navigator.userAgent;
+    if (ua.match(/Android/i)){
+        hide("inputNumber");
+        hide("inputNumber2");
+        hide("result");
+        hide("b1");
+        hide("b2");
+        hide("l2");
+        hide("l3");
+    }
+```
+
+In Testing folder, we can find a txt file which contains a link to a video displaying the app running.
 
 More Information about this app below:
 
