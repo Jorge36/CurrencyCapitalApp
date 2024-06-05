@@ -17,20 +17,28 @@ phonegap create testapp
 
 Some screenshots showing commands on the linux terminal, screens of the applications and environment variables on linux:
 
+* Cordova requirements
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/42cc65a336b8a29a0eb91cdfc2b27d34dada6a1b/Testing/cordova%20requirements.png)
 
+* Cordova build android
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/cordoba%20build%20android.png)
 
+* Cordova run android
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/cordova%20run%20android.png)
 
+* Cordova run browser
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/cordova%20run%20browser.png)
 
+* Environment variables
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/env%20variables.png)
 
+* Genymotion (It is an android emulator)
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/genymotion.png)
 
+* Screen of the application on Android
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/run%20android%20custom%20phone.png)
 
+* Screen of the application on Browser (Firefox)
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/run%20browser%20ipad.png)
 
 
