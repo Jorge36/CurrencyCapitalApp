@@ -1,4 +1,4 @@
-]# CurrencyCapitalApp
+# CurrencyCapitalApp
 Cordova/PhoneGap Application - Currency Converter and Find capitals of countries
 
 Cordova/PhoneGap is one of the frameworks that can be used to develop hybrid mobile apps. 
