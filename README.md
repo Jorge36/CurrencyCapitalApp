@@ -37,7 +37,7 @@ Some screenshots showing commands on the linux terminal, screens of the applicat
   
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/env%20variables.png)
 
-* Genymotion (It is an android emulator)
+* Genymotion (It is an android emulator - version 3.7.1)
   
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/genymotion.png)
 
