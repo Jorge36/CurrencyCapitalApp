@@ -1,4 +1,4 @@
-# CurrencyCapitalApp
+]# CurrencyCapitalApp
 Cordova/PhoneGap Application - Currency Converter and Find capitals of countries
 
 Cordova/PhoneGap is one of the frameworks that can be used to develop hybrid mobile apps. 
@@ -18,15 +18,20 @@ phonegap create testapp
 Some screenshots showing commands on the linux terminal, screens of the applications and environment variables on linux:
 
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/42cc65a336b8a29a0eb91cdfc2b27d34dada6a1b/Testing/cordova%20requirements.png)
-![alt_text]()
-![alt_text]()
-![alt_text]()
-![alt_text]()
-![alt_text]()
-![alt_text]()
-![alt_text]()
-![alt_text]()![alt_text]()
 
+![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/cordoba%20build%20android.png)
+
+![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/cordova%20run%20android.png)
+
+![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/cordova%20run%20browser.png)
+
+![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/env%20variables.png)
+
+![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/genymotion.png)
+
+![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/run%20android%20custom%20phone.png)
+
+![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/run%20browser%20ipad.png)
 
 
 Application was built for android and the browser. 
