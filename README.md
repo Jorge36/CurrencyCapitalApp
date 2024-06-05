@@ -52,7 +52,7 @@ Some screenshots showing commands on the linux terminal, screens of the applicat
 ![alt_text](https://github.com/Jorge36/CurrencyCapitalApp/blob/0b7227b0e4f2ab0aa436e3d7617b9a6dc00bdf89/Testing/run%20browser%20ipad.png)
 
 
-Application was built for Android and browser. Application has different screens on Android and Browser because some elements were hiding on Android.
+Application was built for Android and browser. Application has different screens on Android and Browser because some elements were hiding on Android. Code below how to check if the app is running on Android.
 
 ```
     var ua = navigator.userAgent;
