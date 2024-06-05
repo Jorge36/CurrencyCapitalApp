@@ -55,6 +55,9 @@ Some screenshots showing commands on the linux terminal, screens of the applicat
 Application was built for Android and browser. Application has different screens on Android and Browser because some elements were hiding on Android. Code below how to check if the app is running on Android.
 
 ```
+function onDeviceReady() {
+    // Cordova is now initialized. Have fun!
+
     var ua = navigator.userAgent;
     if (ua.match(/Android/i)){
         hide("inputNumber");
@@ -65,6 +68,15 @@ Application was built for Android and browser. Application has different screens
         hide("l2");
         hide("l3");
     }
+
+    console.log('Running cordova-' + cordova.platformId + '@' + cordova.version);
+    document.getElementById('deviceready').classList.add('ready');
+}
+
+function hide(id) {
+         document.getElementById(id).hidden = true
+}
+
 ```
 
 In Testing folder, we can find a txt file which contains a link to a video displaying the app running.
