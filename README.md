@@ -61,3 +61,6 @@ More Information about this app below:
 5. https://cordova.apache.org/announcements/2024/05/23/cordova-android-13.0.0.html
 6. https://lenguajejs.com/javascript/peticiones-http/fetch/
 7. https://stackoverflow.com/questions/15001340/javascript-check-if-web-app-or-android-app
+8. https://www.toptal.com/app/developing-mobile-applications-with-apache-cordova
+9. https://folderit.net/creando-una-app-android-con-apache-cordova-phonegap/
+10. https://dunnsolutions.com/about-us/insights/digital-solutions-blog/-/blogs/steps-to-creating-a-phonegap-project
